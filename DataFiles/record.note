@@ -1,0 +1,5 @@
+1.0 - orignal file
+1.1 - first level ceaning
+1.2 - added region
+1.3 - removed ['POST', 'C2', 'M', 'BANK CHARGES', 'DOT'] - final to be used for analysis
+1.4 - seasons added - added a last stage therefore ued only in time series and the other last graph
